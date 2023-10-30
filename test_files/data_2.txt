@@ -1,0 +1,19 @@
+{
+"id": "IDS4589",
+"name": "Melbourne",
+"state": "VIC",
+"time_zone": "CST",
+"lat": -44.2,
+"lon": 322.1,
+"local_date_time": "12/01:00pm",
+"local_date_time_full": "2734607152375600",
+"air_temp": 3.3,
+"apparent_t": 3.4,
+"cloud": "Cloudy",
+"dewpt": 2.9,
+"press": 223.9,
+"rel_hum": 40,
+"wind_dir": "W",
+"wind_spd_kmh": 25,
+"wind_spd_kt": 4
+}

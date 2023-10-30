@@ -1,0 +1,17 @@
+{
+"id": "IDS23441",
+"name": "Sydney",
+"state": "NSW",
+"lat": -22.2,
+"lon": 44.6,
+"local_date_time_full": "68O7348904",
+"air_temp": 91.2,
+"apparent_t": 3.5,
+"cloud": "No Cloud",
+"dewpt": 2.0,
+"press": 103.0,
+"rel_hum": 10,
+"wind_dir": "E",
+"wind_spd_kmh": 18,
+"wind_spd_kt": 7
+}
