@@ -10,8 +10,8 @@ class RequestSender:
     def __init__(self):
         self.getHeader = {
             'User-Agent': 'ATOMClient/1/0',
-            'Host': 'localhost:4567',
             'Accept': 'application/json',
+            'Host': 'localhost:4567',
             'Connection': 'close',
             'Content-Type': 'application/json',
         }
